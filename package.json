@@ -1,0 +1,13 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "Простое веб-приложение для демонстрации Jenkins",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Тесты пройдены успешно!\"",
+    "build": "echo \"Сборка завершена!\"",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": ["jenkins", "ci/cd", "demo"],
+  "author": "Ваше имя"
+}
