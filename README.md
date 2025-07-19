@@ -37,7 +37,7 @@ Jenkins_CI-CD/
 ## 📸 Скриншоты
 
 ### Описание проекта в Jenkins
-![Project Description](./img/description.png)
+![Project Description](./img/despription.png)
 
 ### Артефакты успешной сборки
 ![Build Artifacts](./img/artifacts.png)
