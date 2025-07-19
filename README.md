@@ -17,7 +17,7 @@
 Jenkins_CI-CD/
 ├── img/                      # Скриншоты и изображения
 │   ├── artifacts.png         # Артефакты сборки
-│   ├── description.png       # Описание проекта
+│   ├── despription.png       # Описание проекта
 │   └── terminal.png          # Вывод терминала
 ├── index.html               # Главная страница приложения
 ├── package.json            # Конфигурация npm и скрипты
